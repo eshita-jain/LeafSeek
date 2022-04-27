@@ -8,8 +8,6 @@ import numpy as np
 from tensorflow.keras.applications.imagenet_utils import preprocess_input, decode_predictions
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
-
-
 from flask import Flask, redirect, url_for, request, render_template
 from werkzeug.utils import secure_filename
 
@@ -42,7 +40,7 @@ def model_predict(img_path, model):
     elif preds==6:
         preds="The Plant is Carissa Carandas (Karanda)"
     elif preds==7:
-        preds="The Plant is Citrus Limon (Lemon)"
+        preds="The Plant is known as Citrus Limon (Lemon)"
     elif preds==8:
         preds="The Plant is Ficus Auriculata (Roxburgh fig)"
     elif preds==9:
