@@ -27,7 +27,8 @@ Follow these steps to get LeafSeek up and running:
 ## Web-App
 
 ![image](https://github.com/eshita-jain/LeafSeek/assets/80577092/475a5935-3ac5-40f5-83fd-125dcd24a137)
+
+## Results 
 ![image](https://github.com/eshita-jain/LeafSeek/assets/80577092/93aa63b7-a1da-4468-8e4f-a99104fdbaf1)
 
-### Results
 
